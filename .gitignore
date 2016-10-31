@@ -9,3 +9,6 @@ ggplot.egg-info/
 .ipynb_checkpoints/
 
 .CHECKSUMS
+
+# UltraEdit Auto Backup
+*.bak
